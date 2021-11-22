@@ -1,4 +1,5 @@
 # Project Sparkles 
+![Alt text](ART/night_earth_iss.jpg?raw=true "Night side of the Earth from the ISS")
 
 ### S1_Earth_Moon_Sun_estimations
 This notebook contains an step-by-step calculation of the surface brightness of the Sunlit (Day side) and Moonlit (Night side, illuminated by the full-moon) side of the Earth. In addition, we estimate the surface brightness of the Sunlit side of the Moon, and the Dark side of the Moon (illuminated by the reflected sunlight from Earth) as seen from the Earth. Summary of results (estimated for the u,g,r,i,z SDSS bands): 
